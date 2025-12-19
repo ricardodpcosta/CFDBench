@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ===============================================================================
-CFDTestSuite | HELPERS
+CFDBench | HELPERS
 ===============================================================================
 
 DESCRIPTION:
@@ -22,7 +22,7 @@ MIT License (see LICENSE file for details)
 
 REPOSITORY:
 -----------
-https://github.com/ricardodpcosta/CFDTestSuite
+https://github.com/ricardodpcosta/CFDBench
 
 DEPENDENCIES:
 -------------

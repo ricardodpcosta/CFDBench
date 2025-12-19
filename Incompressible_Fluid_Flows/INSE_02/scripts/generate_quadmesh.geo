@@ -1,7 +1,7 @@
 // -*- coding: utf-8 -*-
 /*
 ===============================================================================
-CFDTestSuite | INSE_02
+CFDBench | INSE_02
 ===============================================================================
 
 DESCRIPTION:
@@ -22,7 +22,7 @@ MIT License (see LICENSE file for details)
 
 REPOSITORY:
 -----------
-https://github.com/ricardodpcosta/CFDTestSuite
+https://github.com/ricardodpcosta/CFDBench
 
 DEPENDENCIES:
 -------------

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ===============================================================================
-CFDTestSuite | CHT_03
+CFDBench | CHT_03
 ===============================================================================
 
 DESCRIPTION:
@@ -21,7 +21,7 @@ MIT License (see LICENSE file for details)
 
 REPOSITORY:
 -----------
-https://github.com/ricardodpcosta/CFDTestSuite
+https://github.com/ricardodpcosta/CFDBench
 
 DEPENDENCIES:
 -------------
